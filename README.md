@@ -11,7 +11,7 @@ Server-Sent Events · REST API
 **Tools dispatched:** PING · NSLOOKUP · TRACEROUTE · PORTSCAN · 
 HTTPCHECK · IFCONFIG
 
-> Built as an independent project alongside research at IIIT Hyderabad 
+
 
 ## 🚀 Key Features
 
